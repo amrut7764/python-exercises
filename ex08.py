@@ -1,4 +1,4 @@
-__autho__ = "imroot <chougale.amrut@gmail.com>"
+__author__ = "imroot <chougale.amrut@gmail.com>"
 
 '''
 Define a function is_palindrome() that recognizes palindromes (i.e. words that look the same written backwards). For example, is_palindrome("radar") should return True
