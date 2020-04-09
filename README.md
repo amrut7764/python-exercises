@@ -1,6 +1,6 @@
 # 46 Simple Python Exercises
 
-A collection of 46 simple (and less simple) Python exercises. The exercises have been written, found and collected by [Torbjörn Lager](http://www.ling.gu.se/~lager/python_exercises.html) (torbjorn.lager@ling.gu.se). In this repository you can find my solutions to such exercises. For any question, comment or feedback feel free to drop me a line [on Twitter](https://twitter.com/annoys_parrot). 
+A collection of 46 simple (and less simple) Python exercises. The exercises have been written, found and collected by [Torbjörn Lager](http://www.ling.gu.se/~lager/python_exercises.html) (torbjorn.lager@ling.gu.se). . 
 
 # The Exercises
 
